@@ -12,5 +12,5 @@ This is a repository for my notes from the course CIS 5200 Machine Learning at t
 
 ### Models Implemented
 
-:heavy_check_mark:K Nearest Neighbors
+:heavy_check_mark:Perceptron
 
