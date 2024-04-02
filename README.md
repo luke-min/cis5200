@@ -16,3 +16,6 @@ This is a repository for my notes from the course CIS 5200 Machine Learning at t
 
 :heavy_check_mark:Perceptron
 
+### Future Plans
+
+* KNN
